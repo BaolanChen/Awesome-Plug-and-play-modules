@@ -1,4 +1,10 @@
 # Awesome-Plug-and-play-modules
-即插即用模块整理，注意力机制，用于特征处理
+<h4>A collection of papers, code, Plug-and-play Module.</h4>
 
-SENet 2018 CVPR
+---
+</div>
+
+## 📢 Latest Updates
+:fire::fire::fire: Last Updated on 2025.03.22 :fire::fire::fire:
+- **2025.03.22**: Update SENet.
+
